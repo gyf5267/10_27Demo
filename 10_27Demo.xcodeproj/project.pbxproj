@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		43B308461BE096A3005399A1 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B308451BE096A3005399A1 /* HomeViewController.m */; };
 		43B308481BE097EC005399A1 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 43B308471BE097EC005399A1 /* README.md */; };
 		43F681741BDF202E0026B7AA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681731BDF202E0026B7AA /* main.m */; };
 		43F681771BDF202E0026B7AA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681761BDF202E0026B7AA /* AppDelegate.m */; };
@@ -28,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		43B308441BE096A3005399A1 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		43B308451BE096A3005399A1 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		43B308471BE097EC005399A1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		43F6816E1BDF202E0026B7AA /* 10_27Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 10_27Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43F681721BDF202E0026B7AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -92,6 +95,8 @@
 				43F6817E1BDF202E0026B7AA /* Images.xcassets */,
 				43F681801BDF202E0026B7AA /* LaunchScreen.xib */,
 				43F681711BDF202E0026B7AA /* Supporting Files */,
+				43B308441BE096A3005399A1 /* HomeViewController.h */,
+				43B308451BE096A3005399A1 /* HomeViewController.m */,
 			);
 			path = 10_27Demo;
 			sourceTree = "<group>";
@@ -226,6 +231,7 @@
 				43F681771BDF202E0026B7AA /* AppDelegate.m in Sources */,
 				43B308481BE097EC005399A1 /* README.md in Sources */,
 				43F681741BDF202E0026B7AA /* main.m in Sources */,
+				43B308461BE096A3005399A1 /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
