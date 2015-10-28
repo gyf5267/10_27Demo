@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		43B308481BE097EC005399A1 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 43B308471BE097EC005399A1 /* README.md */; };
-		43B3084B1BE0988E005399A1 /* FindViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B3084A1BE0988E005399A1 /* FindViewController.m */; };
 		43F681741BDF202E0026B7AA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681731BDF202E0026B7AA /* main.m */; };
 		43F681771BDF202E0026B7AA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681761BDF202E0026B7AA /* AppDelegate.m */; };
 		43F6817A1BDF202E0026B7AA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681791BDF202E0026B7AA /* ViewController.m */; };
@@ -30,8 +29,6 @@
 
 /* Begin PBXFileReference section */
 		43B308471BE097EC005399A1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		43B308491BE0988E005399A1 /* FindViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindViewController.h; sourceTree = "<group>"; };
-		43B3084A1BE0988E005399A1 /* FindViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FindViewController.m; sourceTree = "<group>"; };
 		43F6816E1BDF202E0026B7AA /* 10_27Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 10_27Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43F681721BDF202E0026B7AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43F681731BDF202E0026B7AA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -68,8 +65,6 @@
 		43F681651BDF202E0026B7AA = {
 			isa = PBXGroup;
 			children = (
-				43B308491BE0988E005399A1 /* FindViewController.h */,
-				43B3084A1BE0988E005399A1 /* FindViewController.m */,
 				43B308471BE097EC005399A1 /* README.md */,
 				43F681701BDF202E0026B7AA /* 10_27Demo */,
 				43F6818A1BDF202F0026B7AA /* 10_27DemoTests */,
@@ -230,7 +225,6 @@
 				43F6817A1BDF202E0026B7AA /* ViewController.m in Sources */,
 				43F681771BDF202E0026B7AA /* AppDelegate.m in Sources */,
 				43B308481BE097EC005399A1 /* README.md in Sources */,
-				43B3084B1BE0988E005399A1 /* FindViewController.m in Sources */,
 				43F681741BDF202E0026B7AA /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
