@@ -9,7 +9,10 @@
 /* Begin PBXBuildFile section */
 		43B308461BE096A3005399A1 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B308451BE096A3005399A1 /* HomeViewController.m */; };
 		43B308481BE097EC005399A1 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 43B308471BE097EC005399A1 /* README.md */; };
+<<<<<<< HEAD
 		43DEF3AE1BE8CDC80040C855 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 43DEF3AD1BE8CDC80040C855 /* TableViewCell.m */; };
+=======
+>>>>>>> parent of 75cf10f... Revert "Revert "find""
 		43F681741BDF202E0026B7AA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681731BDF202E0026B7AA /* main.m */; };
 		43F681771BDF202E0026B7AA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681761BDF202E0026B7AA /* AppDelegate.m */; };
 		43F6817A1BDF202E0026B7AA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F681791BDF202E0026B7AA /* ViewController.m */; };
@@ -33,8 +36,11 @@
 		43B308441BE096A3005399A1 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		43B308451BE096A3005399A1 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		43B308471BE097EC005399A1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		43DEF3AC1BE8CDC80040C855 /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
 		43DEF3AD1BE8CDC80040C855 /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+=======
+>>>>>>> parent of 75cf10f... Revert "Revert "find""
 		43F6816E1BDF202E0026B7AA /* 10_27Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 10_27Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43F681721BDF202E0026B7AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43F681731BDF202E0026B7AA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
